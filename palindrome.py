@@ -1,5 +1,5 @@
-text = input("Enter your text")
-
+# text = input("Enter your text")
+text = "malayalam"
 rev = text[::-1]
 
 if text == rev:
